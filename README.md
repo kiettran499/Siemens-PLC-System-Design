@@ -24,4 +24,4 @@
   
 - According to the test cases in the figure above, the system has been successfully analysed, designed, and implemented. That is the system can transfer the workpieces through module A, B, and D, and pieces are allocated into correct slots. Plus, it also satisfies the requirements in mode 1 and mode 2 as well as some special cases like stop, fault, and emergency condition.
 
-- A Demo Video about the design system in operation:  
+- A Demo Video about the design system in operation: https://www.youtube.com/watch?v=uv0dDycq3CU&t=76s
