@@ -15,7 +15,7 @@
     - Mode 2: the system will perform the sequence CONTINUOUSLY the stop conditions are met, or the EMMERGENCY STOP button is pressed.
   - STOP button to stop and return to its initial position at the beginning of the sequence.
   - FAULT button to indicate an error in the system.
-  - EMMERGENCY STOP button in the case of an emergency.
+  - EMERGENCY STOP button in the case of an emergency.
  
 ## Result
 
